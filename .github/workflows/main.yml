@@ -20,4 +20,4 @@ jobs:
         with:
           # context: DockerFileFolder/
           push: true
-          tags: shreyar25/career-website.www:latest
+          tags: priyankagh/career-website.www:latest
