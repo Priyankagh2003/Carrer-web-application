@@ -3,9 +3,15 @@ This is a fully responsive web application designed to assist students in viewin
 The application offers features such as login authentication, profile editing for users, and order tracking for administrators.
 Users can also purchase career guidance books through the platform.
 Admin functionalities include managing orders, updating shipment statuses, and the ability to add, delete, or edit details for both colleges and books.
+
+
+
 For version control, GitHub Actions are utilized, and CI/CD processes are streamlined with Docker.
 Frotend : HTML,CSS,JavaScript
 Backend:PHP,MySQL
+
+
+
  user:
  It contains home page, courses page,about page,profile logout,contact us page, books page.
  user can provide feedback in contact us page.
